@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![burger builder](https://i.imgur.com/S8viEvi.gif)
 
 ## Available Scripts
 
