@@ -1,0 +1,31 @@
+.Auth {
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 2px 3px solid #eeeeee;
+    margin-bottom: 20px;
+}
+@media (min-width: 500px) {
+    .Auth{
+        width: 70%;
+    }
+}
+.Auth h1 {
+    text-align: center;
+}
+.Error {
+    display: block;
+    color:#ff0266
+}
+.Auth button {
+    background-color: transparent;
+    border: none;
+    color: #5C9210;;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    font-weight: bold;
+}

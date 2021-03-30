@@ -1,0 +1,19 @@
+.NavItems {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+@media(max-width: 500px) {
+    .NavItems {
+        margin: 6px 0;
+        flex-direction: column;
+        align-items: flex-start;
+       
+    }
+}

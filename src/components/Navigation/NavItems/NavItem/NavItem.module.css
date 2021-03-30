@@ -1,0 +1,37 @@
+.NavItem {
+  margin: 0;
+  margin-left: 8px;
+}
+.NavItem a {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 6px;
+  box-sizing: border-box;
+  display: block;
+  border-bottom: 3px solid transparent;
+  transition: transform ease-out 0.3s;
+}
+.NavItem a:hover,
+.NavItem a:active,
+.NavItem a.active {
+  background-color: #8f5c2c;
+  border-bottom: 3px solid #40a4c8;
+  transform: scale(1.1, 1.1);
+}
+
+@media (max-width: 500px) {
+  .NavItem {
+    margin: 6px 0;
+  }
+  .NavItem a {
+    color: #40a4c8;
+    width: 100%;
+    padding: 0;
+  }
+  .NavItem a:hover,
+  .NavItem a:active,
+  .NavItem a.active {
+    background-color: white;
+    border-bottom: none;
+    transform: none;  }
+}
