@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ahmedElnewery/buger-builder/static/css/main.78a4033d.chunk.css",
+    "main.js": "/ahmedElnewery/buger-builder/static/js/main.011c5606.chunk.js",
+    "main.js.map": "/ahmedElnewery/buger-builder/static/js/main.011c5606.chunk.js.map",
+    "runtime-main.js": "/ahmedElnewery/buger-builder/static/js/runtime-main.a872babb.js",
+    "runtime-main.js.map": "/ahmedElnewery/buger-builder/static/js/runtime-main.a872babb.js.map",
+    "static/js/2.79b8b913.chunk.js": "/ahmedElnewery/buger-builder/static/js/2.79b8b913.chunk.js",
+    "static/js/2.79b8b913.chunk.js.map": "/ahmedElnewery/buger-builder/static/js/2.79b8b913.chunk.js.map",
+    "index.html": "/ahmedElnewery/buger-builder/index.html",
+    "precache-manifest.015c80e3a56094a6e519957e93d76309.js": "/ahmedElnewery/buger-builder/precache-manifest.015c80e3a56094a6e519957e93d76309.js",
+    "service-worker.js": "/ahmedElnewery/buger-builder/service-worker.js",
+    "static/css/main.78a4033d.chunk.css.map": "/ahmedElnewery/buger-builder/static/css/main.78a4033d.chunk.css.map",
+    "static/js/2.79b8b913.chunk.js.LICENSE.txt": "/ahmedElnewery/buger-builder/static/js/2.79b8b913.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.png": "/ahmedElnewery/buger-builder/static/media/burger-logo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a872babb.js",
+    "static/js/2.79b8b913.chunk.js",
+    "static/css/main.78a4033d.chunk.css",
+    "static/js/main.011c5606.chunk.js"
+  ]
+}
